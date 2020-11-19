@@ -8,3 +8,5 @@ variety of tasks such as applications  information retrieval, parsing,
 Text to Speech (TTS) applications, information extraction, linguistic
 research for corpora. Here, we will implement this POS tagging with the 
 Hidden Makrow model (HMM).
+
+Link to the full project report: https://docs.google.com/document/d/1VFQTo-XnWnSge-FPY0J3zSVzXWBivZX5yXvOoyBOUfE/edit?usp=sharing
