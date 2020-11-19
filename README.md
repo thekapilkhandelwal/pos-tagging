@@ -1,4 +1,3 @@
-# pos_tagging_using_viterbi_algorithm
 ## What is Part of Speech (POS) tagging?
 POS tagging is the process of tagging or associating each word
 of a sentence with a proper ‘Part Of Speech (POS)’. POS tags are
